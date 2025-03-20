@@ -1,4 +1,4 @@
--### 👋 Hi, I’m Allan Mugenyi  
+👋 Hi, I’m Allan Mugenyi  
 🤖 **AI & Robotics Enthusiast** | 🖥️ **Embedded Systems Developer** | 📊 **Machine Learning Explorer**  
 
 💡 Passionate about **Artificial Intelligence, Robotics, and Embedded Systems**. I enjoy building intelligent systems, working with **Python**, and diving into **low-level hardware programming**.  
