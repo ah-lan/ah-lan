@@ -3,7 +3,7 @@
 
 💡 Passionate about **Artificial Intelligence, Robotics, and Embedded Systems**. I enjoy building intelligent systems, working with **Python**, and diving into **low-level hardware programming**.  
 
-### 🚀 About Me  
+ 🚀 About Me  
 - 🤖 Exploring **Machine Learning & AI** applications in robotics  
 - 🔌 Working on **Embedded Systems** and **IoT projects**  
 - 🐍 Proficient in **Python** and learning **ML libraries (TensorFlow, PyTorch, OpenCV, etc.)**  
@@ -15,7 +15,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/allan-mugenyi-505a32278/)  
 
 ### 📊 GitHub Stats  
-![Allan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-m 
-
+	 https://github.com/ah-lan
 
